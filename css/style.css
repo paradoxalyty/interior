@@ -126,7 +126,7 @@ body {
     margin: 0 auto;
 }
 
-ul.doted li {
+.doted li {
     display: inline-block;
     width: 32px;
     height: 32px;
@@ -135,13 +135,19 @@ ul.doted li {
     background: #c5c5c5;
 }
 
-ul.doted li:hover {
+.doted li:hover {
     width: 40px;
     height: 40px;
     margin: 0px;
     border-radius: 20px;
     background: #1b1b1b;
     cursor: pointer;
+}
+
+.doted li a {
+    display: block;
+    width: 100%;
+    height: 100%;
 }
 
 
