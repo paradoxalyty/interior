@@ -159,7 +159,7 @@ body {
 
 .featured {
     height: 381px;
-    padding: 114px 68px;
+    padding: 114px 98px;
     background-color: #ffffff;
 }
 
@@ -210,7 +210,7 @@ body {
 .featured > .products > div {
     width: 270px;
     height: 270px;
-    margin: 0 15px;
+    margin: 0 11px;
     float: left;
 }
 
